@@ -1,0 +1,5 @@
+{
+  "name": "ClipStitch",
+  "description": "A web application to upload a folder of video clips and automatically stitch them together using browser capabilities.",
+  "requestFramePermissions": []
+}
